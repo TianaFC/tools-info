@@ -1,0 +1,3 @@
+Sublime Text is a text editor for code, markup, and prose.  It has many useful features and settingd such as split editing, distraction free mode, and instant project switch.
+
+http://www.sublimetext.com/
